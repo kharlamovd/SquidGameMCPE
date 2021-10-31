@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="nav_buttons_style">
+        <item name="android:background">@null</item>
+    </style>
+
+    <style name="inscriptionStyle">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="carouselStyle">
+        <item name="android:scaleType">fitStart</item>
+        <item name="fillColor">#FFFFFFFF</item>
+        <item name="pageColor">#00000000</item>
+        <item name="radius">3dp</item>
+        <item name="slideInterval">@integer/slide_interval</item>
+        <item name="strokeColor">#FF777777</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+
+    <style name="carouselNoSlideStyle" parent="carouselStyle">
+        <item name="slideInterval">0</item>
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/main</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_margin">@dimen/margin_inscription</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="mainButtonStyle">
+        <item name="android:layout_marginStart">@dimen/margin</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="demoTitleStyle">
+        <item name="android:layout_marginStart">@dimen/card_margin</item>
+        <item name="android:layout_marginTop">@dimen/card_margin</item>
+        <item name="android:textSize">@dimen/mod_card_title</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="addonMapCardStyle">
+        <item name="android:layout_margin">@dimen/card_margin</item>
+        <item name="cardCornerRadius">@dimen/card_corner_radius</item>
+        <item name="cardElevation">@dimen/card_elevation</item>
+    </style>
+
+    <style name="countVarsStyle">
+        <item name="android:layout_marginStart">@dimen/card_margin</item>
+    </style>
+
+    <!--<style name="sizeCountStyle" parent="countVarsStyle">
+        <item name="android:drawableStart">@drawable/outline_file_download_24</item>
+    </style>
+
+    <style name="downloadCountStyle" parent="countVarsStyle">
+        <item name="android:drawableStart">@drawable/outline_cloud_download_24</item>
+    </style>
+
+    <style name="likesCountStyle" parent="countVarsStyle">
+        <item name="android:drawableStart">@drawable/outline_favorite_24</item>
+    </style>-->
+
+    <style name="installButtonStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">@color/main</item>
+    </style>
+
+    <style name="modDescriptionStyle">
+        <item name="android:textSize">18sp</item>
+        <!--<item name="android:layout_margin">@dimen/margin</item>-->
+    </style>
+    
+    <style name="header">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="teaserStyle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">@font/game_of_squids</item>
+    </style>
+
+</resources>

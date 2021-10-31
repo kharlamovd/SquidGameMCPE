@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin">10dp</dimen>
+    <dimen name="nav_button_margin_top">30dp</dimen>
+
+    <dimen name="margin_inscription">10dp</dimen>
+    <dimen name="carousel_height">200dp</dimen>
+    <dimen name="carousel_corner_radius">15dp</dimen>
+    <dimen name="carousel_margin">10dp</dimen>
+    <dimen name="prog_bar_size">30dp</dimen>
+    <dimen name="prog_bar_mod_list_size">50dp</dimen>
+    <dimen name="prog_bar_mod_list_margin">50dp</dimen>
+
+    <dimen name="padding_descr">15dp</dimen>
+    <dimen name="about_buttons_margin_top">10dp</dimen>
+
+    <dimen name="addon_card_height">270dp</dimen>
+    <dimen name="addon_imageview_height">190dp</dimen>
+    <dimen name="card_corner_radius">20dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+    <dimen name="mod_card_title">16sp</dimen>
+    <dimen name="stats_margin_top">5dp</dimen>
+
+    <dimen name="demo_addon_card_height">230dp</dimen>
+    <dimen name="demo_addon_card_width">300dp</dimen>
+    <dimen name="demo_addon_imageview_height">150dp</dimen>
+
+    <dimen name="demo_skin_card_width">180dp</dimen>
+    <dimen name="demo_skin_card_height">280dp</dimen>
+    <dimen name="demo_skin_imageview_height">200dp</dimen>
+
+    <integer name="slide_interval">2500</integer>
+
+    <dimen name="addon_map_imageview_height">300dp</dimen>
+    <dimen name="skin_imageview_height">400dp</dimen>
+
+    <dimen name="like_button_size">50dp</dimen>
+    <dimen name="like_button_margin_start">320dp</dimen>
+    <dimen name="like_button_margin_top">-25dp</dimen>
+    <dimen name="like_button_margin_end">50dp</dimen>
+
+    <dimen name="mod_description_margin">25dp</dimen>
+
+    <dimen name="splash_icon_size">180dp</dimen>
+
+    <dimen name="about_icon_size">100dp</dimen>
+
+    <dimen name="trailer_view_height">250dp</dimen>
+
+</resources>

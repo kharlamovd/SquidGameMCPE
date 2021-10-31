@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Squid Game for Minecraft</string>
+
+    <string name="install">Install mod</string>
+
+    <string name="about">About</string>
+    <string name="share">Share</string>
+
+    <string name="mod_descr1">"
+
+        <b>Squid Game Rampage</b> addon is a fun to play addon which will add the Squid Game killer doll, Red Guards and the survivors to your game. This is a very fun to play Minecraft Addon and you can use it in your Minecraft map for more adventure and fun\n
+
+This Minecraft Addon will add The Robot doll form Squid Game The Red Guards and the Lone Survivors in the Game\n
+-the giant robot doll will attack the green wearing survivors and shoot fire balls\n
+-Red soldiers too will attack green uniform survivors and they will run away from their enemies to safety\n
+-there is a spawn tree form the squid game series too which I added and is spawn able as well\n
+
+You are free to use it in your Minecraft world if credited\n
+Special Thanks to a friend who helped me make this addon but didn\'t want his name announced here \n"
+    </string>
+
+    <string name="mod_descr2">"
+
+<b>WHAT\'S NEW</b>\n
+&#8226; New Red 3d Soldiers\n
+&#8226; FIXED the miner bugs on robot attack\n
+
+<b>EXPECTED UPCOMING UPDATES IN THE FUTURE</b>\n
+&#8226; soldiers hold guns and shoot bullets\n
+&#8226; robotic doll rotates head and shoots\n
+&#8226; make map to host the addon and games\n
+    "</string>
+
+    <string name="share_text">Check out this terrific Squid Game for Minecraft app!</string>
+    <string name="disclaimer" translatable="false">Disclaimer</string>
+    <string name="disclaimer_text" translatable="false"><p>This is an unofficial application for Minecraft Pocket Edition. This application is not affiliated in any way with Mojang AB. The Minecraft Name, the Minecraft Brand and the Minecraft Assets are all property of Mojang AB or their respectful owner. All rights reserved. In accordance with <a href="https://account.mojang.com/documents/brand_guidelines">https://account.mojang.com/documents/brand_guidelines</a></p>"</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="app_descr">"  This app allows to build constructions on your map, download additional maps, textures and addons.\n
+        <b>Applying mods in the game:</b>\n
+        &#8226; Start Minecraft and go to world editing.\n
+        &#8226; Select Texture Sets.\n
+        &#8226; Find a texture pack and activate it.\n
+        &#8226; Select Presets.\n
+        &#8226; Find the add-on and activate it.\n
+        &#8226; The mod is installed, enjoy the game!\n
+        "</string>
+    <string name="priv_policy">Privacy Policy</string>
+
+    <string name="privacy_policy_text">
+        "<b>Privacy Policy</b>\n\n
+        Minecraft Apps has created the Squid Game for Minecraft app as a free app. This service is provided by Minecraft Apps Company free of charge and to use any user interface.
+This page is used to inform users of our policy for the collection, use and disclosure of Personal Information if anyone decides to use our application.
+If you choose to use our app, you agree to the collection and use of this policy. The personal information we collect is used to provide and improve the app. We will not use your information to anyone except as described in this Privacy Policy.
+The terms used in this Privacy Policy have the same meaning as in our Terms and Conditions, which are available in Minecraft mods, if defined in this Privacy Policy.\n
+        <b>Collection and use of information</b>\n
+        To use our application, we may require you to provide us with certain personal information. The information we provide will be stored by us and the internet as described in this privacy policy.
+The app uses third party services that may collect information used to identify you.
+Link to the privacy policy of third party service providers applied by the application\n
+        &#8226; <a href="https://www.google.com/policies/privacy/">Google Play Services</a>\n
+        &#8226; <a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob</a>\n
+        &#8226; <a href="https://firebase.google.com/policies/analytics">Google Analytics for Firebase</a>\n
+        &#8226; <a href="https://firebase.google.com/support/privacy/">Firebase Crashlytics</a>\n
+        &#8226; <a href="https://www.facebook.com/about/privacy/update/printable">Facebook</a>\n
+        <b>Data</b>\n
+        We want to inform you that whenever you use our application, in the event of an error in the application, we collect data and information (through third parties) on your phone. This log data may include information such as your device\'s IP address, device name, operating system version of the Service you are using, the time and date you used the Service, and other statistics.\n
+        <b>Cookies</b>\n
+        Cookies are small data files that are commonly used as anonymous unique indicators. They are sent to your browser from the websites you visit and are stored in your device\'s internal memory.
+This Service does not explicitly use these "cookies". However, the app may use third-party code and libraries that use cookies to collect information and improve its services. You have the option to accept these cookies and know when a cookie is being sent to your device. You choose to use some cookies.\n
+        <b>Service providers</b>\n
+        We may hire third party companies and individuals for the following reasons:\n
+        &#8226; To facilitate the operation of our Service;\n
+        &#8226; To provide the Service on our behalf;\n
+        &#8226; To provide services related to the Service; or\n
+        &#8226; To help us analyze how our Service is used.\n
+        We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to carry out their assigned tasks on our behalf. However, they are required not to disclose or use the information for any other purpose.\n
+        <b>Security</b>\n
+        We value your trust in providing us with your personal information, so we strive to use commercially acceptable means to protect it. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure or reliable, and we cannot guarantee its absolute security.\n
+        <b>Links to other sites</b>\n
+        Our application may contain links to other sites. If you click on a third party link, you will be redirected to that site. Please note that these external sites are not operated by us. Therefore, we recommend that you familiarize yourself with the Privacy Policy of these websites. We have no control over the content, policies, or actions of any third party sites or services.\n
+        <b>Children\'s privacy</b>\n
+        Our app is not intended for people under the age of 13. We do not knowingly collect personally identifiable information from under the age of 13. We removed it from our servers. Let us know that you have provided us with the required action.\n
+        <b>Copyright protection</b>\n
+        Minecraft is not copyrighted. All modifications for applications and games are installed separately in our application at the request of the user who downloaded it. We are ready to place a modi version in our application at the request of its application in case of providing evidence of involvement in the development. Collected freebies and taken from public freebies
+Internet resources.\n
+        <b>Changes to this Privacy Policy</b>\n
+        We may update our Privacy Policy from time to time. Therefore, you are encouraged to periodically review this page for changes. We will notify you of any changes by posting a new Privacy Policy on this page.
+This policy is effective from 2021-10-30.\n
+        <b>Contact us</b>\n
+        If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <a href="mailto:minemodsdownload@gmail.com">minemodsdownload@gmail.com</a>.
+"
+    </string>
+
+    <string name="uh_oh">Uh-oh</string>
+    <string name="mod_title" translatable="false">Squid Game Rampage Addon</string>
+    <string name="ready" translatable="false">Are you ready for the game?</string>
+
+</resources>
